@@ -1,0 +1,11 @@
+1. Build a movie App using redux toolkit,
+The App should have two users
+Admin
+Customers
+Below are the features to be implemented
+Admin should be able to add new movies to the list
+Creating a movie should take all the properties through react forms  and can add basic validations.
+Admin should be able to remove movies from the list
+Customers should be able to view the movie list 
+Customers should be able to see the movies in the latest release dates by default
+Note: Can use Any API for getting movie list like OMDB , TMDB etc… for loading initial data / can use fake server API’s
