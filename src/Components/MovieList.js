@@ -5,6 +5,7 @@ import { useDispatch } from "react-redux";
 import {add,remove} from '../store/cartSlice';
 import { useSelector } from 'react-redux';
 
+
 import {addMovie,removeMovie,setMovie} from '../store/dataSlice';
 
 function MovieList(){
